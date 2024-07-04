@@ -4,3 +4,4 @@ joblib
 matplotlib 
 feature_engine
 xgboost
+flask_wtf
