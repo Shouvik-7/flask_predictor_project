@@ -1,7 +1,6 @@
-pandas 
+pandas
 scikit-learn
-joblib
-matplotlib 
-feature_engine
-xgboost
-flask_wtf
+feature-engine
+flask
+flask-wtf
+gunicorn
